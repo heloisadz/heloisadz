@@ -7,4 +7,3 @@
 
 
 
-<img src="https://myreadme.vercel.app/api/embed/heloisadz?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
