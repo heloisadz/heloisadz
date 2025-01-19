@@ -1,4 +1,4 @@
-## Oiii eu sou a Maria Heloisa, estudante de Informática para Internet!
+## Oiii eu sou a Maria Heloisa, técnica em Informática para Internet!
 
 
 
